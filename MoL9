@@ -1,0 +1,49 @@
+/**************************************************************** BEGIN ********************************************************************
+                 
+                 Momomo Restrictive License 9 'MoL9' (https://raw.githubusercontent.com/momomo/momomo.com.yz.licenses/HEAD/MoL9)                       
+                                                    Copyrightⓒ 2014-2022, Momomo LTD 
+                                                           All rights reserved
+    (0) Definitions
+    
+        "This License" refers to the current version of Momomo Opensource Licence 'MoL9'.
+        
+        "Copyright" also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
+                
+        "Program" refers to any copyrightable work licensed under this License. Each Licensee is addressed as "you".  
+        
+        "Licensees" and "recipients" may be individuals or organizations.
+                
+        To "modify" a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission other than the making of an exact copy. 
+        
+        The resulting work is called a "modified version" of the earlier work or a work "based on" the earlier work.
+                
+        A "covered work" means either the unmodified Program or a work based on the Program.
+        
+        To "propagate" a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer. 
+        
+        Propagation includes copying, distribution (with or without modification), making available to the public, and in some country’s other activities as well.
+                
+        To "convey" a work means any kind of propagation that enables other parties to make or receive copies. Mere interaction with a user through a computer network, with no transfer of a copy, is not conveying.
+        
+        An interactive user interface displays "Appropriate Legal Notices" to the extent that it includes a convenient and prominently visible feature that 
+            (a) displays an appropriate copyright notice, and 
+            (b) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that Licensees may convey the work under this License, and how to view a copy of this License. If the interface presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.  
+                                      
+    (0) Software under this licence are subject to the following TERMS AND CONDITIONS listed clauses (1) - (6). 
+    
+    (1) Use of this source code, wether identical, changed, altered, compiled and/or compressed is only allowed for non-commercial use provided that all other conditions in this License are also met.                 
+                                                                                                                                        
+    (2) This source code may not be changed, altered, compiled and/or compressed unless a written consent has been requested and recieved by properly authorized representative of Momomo LTD.                                                                                        
+                                                                                                                                        
+    (3) The distribution and/or redistribution and/or publication of this source code, unchanged, changed, altered, compiled and/or compressed is prohibited to any medium, publicly, locally, privately and/or internally, unless a written consent has been requested and recieved by properly authorized representative of Momomo LTD.                                                                                                  
+                                                                                                                                        
+    (4) The use of and/or distribution of any work derived through the use of this source code, wether identical, changed, altered, compiled and/or compressed is prohibited, unless a written consent has been requested and recieved by properly authorized representative of Momomo LTD.                                                         
+                                                                                                                                        
+    (5) Momomo LTD considers the techniques, design patterns, naming, naming conventions, naming combinations, used and/or employed in the source as unique, copyright protected where the distribution and/or redistribution of this source code using altered names and/or rearranging and/or restructuring of this source as a severe breach of this License and/or relevant domestic and/or international copyright laws. 
+                                                                                                                                        
+    (6) All copies of this source code, wether identical, changed, altered, compiled and/or compressed must include this License in its entirety, list all changes made including the name and date of the entity/organization that introduced them, as well as the following disclaimer:          
+        
+        THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+                                                                                                                                        
+    Please feel free to contact us on hello{at}momomo.com if you have any inquiries.                                                                                                                                  
+****************************************************************** END *********************************************************************/
